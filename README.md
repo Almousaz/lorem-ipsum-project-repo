@@ -19,5 +19,5 @@ event.preventDefault()
 ## demo
 ---
 
-click [here]() to see demo
+click [here](https://almousaz.github.io/lorem-ipsum-project-repo/) to see demo
 
